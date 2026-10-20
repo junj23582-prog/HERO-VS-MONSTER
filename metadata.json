@@ -1,0 +1,6 @@
+{
+  "name": "Super Hero vs Monster: Battle Arena",
+  "description": "Game pertarungan aksi seru untuk anak laki-laki dengan superhero tangguh melawan monster-monster animasi yang dahsyat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
